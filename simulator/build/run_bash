@@ -1,0 +1,1 @@
+./ranc_sim --input ../data/example/input.json --output output.json --config ../config.json --ticks 100 --trace trace_file
